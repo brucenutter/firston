@@ -27,6 +27,19 @@
                     ]
                 },
                 {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 741,
+                    "y": 407,
+                    "uniqueID": 638107,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 861087",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 777,
@@ -47,7 +60,14 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 933438,
+                    "ap2ID": 730769
+                }
+            ],
             "fileTypeVersion": 1
         }
     ],
