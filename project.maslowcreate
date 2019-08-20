@@ -10,19 +10,6 @@
             "topLevel": true,
             "allAtoms": [
                 {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 389,
-                    "y": 254,
-                    "uniqueID": 130653,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 30
-                        }
-                    ]
-                },
-                {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
                     "x": 600,
@@ -32,6 +19,10 @@
                         {
                             "name": "x length",
                             "ioValue": 20
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -52,18 +43,6 @@
                 }
             ],
             "allConnectors": [
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "y length",
-                    "ap1ID": 130653,
-                    "ap2ID": 933438
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "height",
-                    "ap1ID": 130653,
-                    "ap2ID": 730769
-                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
