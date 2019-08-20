@@ -27,19 +27,6 @@
                     ]
                 },
                 {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 815,
-                    "y": 273,
-                    "uniqueID": 638107,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 861087",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 777,
