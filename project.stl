@@ -1,16 +1,16 @@
 solid JSxCAD
 facet normal 0 0 1
 outer loop
-vertex 10 5 10
-vertex -10 5 10
-vertex -10 -5 10
+vertex 10 5 25
+vertex -10 5 25
+vertex -10 -5 25
 endloop
 endfacet
 facet normal 0 0 1
 outer loop
-vertex 10 5 10
-vertex -10 -5 10
-vertex 10 -5 10
+vertex 10 5 25
+vertex -10 -5 25
+vertex 10 -5 25
 endloop
 endfacet
 facet normal 0 0 -1
@@ -30,56 +30,56 @@ endfacet
 facet normal 0 -1 0
 outer loop
 vertex 10 -5 0
-vertex 10 -5 10
-vertex -10 -5 10
+vertex 10 -5 25
+vertex -10 -5 25
 endloop
 endfacet
 facet normal 0 -1 0
 outer loop
 vertex 10 -5 0
-vertex -10 -5 10
+vertex -10 -5 25
 vertex -10 -5 0
 endloop
 endfacet
 facet normal -1 0 0
 outer loop
 vertex -10 -5 0
-vertex -10 -5 10
-vertex -10 5 10
+vertex -10 -5 25
+vertex -10 5 25
 endloop
 endfacet
 facet normal -1 0 0
 outer loop
 vertex -10 -5 0
-vertex -10 5 10
+vertex -10 5 25
 vertex -10 5 0
 endloop
 endfacet
 facet normal 0 1 0
 outer loop
 vertex -10 5 0
-vertex -10 5 10
-vertex 10 5 10
+vertex -10 5 25
+vertex 10 5 25
 endloop
 endfacet
 facet normal 0 1 0
 outer loop
 vertex -10 5 0
-vertex 10 5 10
+vertex 10 5 25
 vertex 10 5 0
 endloop
 endfacet
 facet normal 1 0 0
 outer loop
 vertex 10 5 0
-vertex 10 5 10
-vertex 10 -5 10
+vertex 10 5 25
+vertex 10 -5 25
 endloop
 endfacet
 facet normal 1 0 0
 outer loop
 vertex 10 5 0
-vertex 10 -5 10
+vertex 10 -5 25
 vertex 10 -5 0
 endloop
 endfacet
