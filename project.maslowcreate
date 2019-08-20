@@ -12,13 +12,13 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 537,
-                    "y": 252,
+                    "x": 500,
+                    "y": 295,
                     "uniqueID": 130653,
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 10
+                            "ioValue": 30
                         }
                     ]
                 },
@@ -32,10 +32,6 @@
                         {
                             "name": "x length",
                             "ioValue": 20
-                        },
-                        {
-                            "name": "y length",
-                            "ioValue": 10
                         }
                     ]
                 },
@@ -61,6 +57,12 @@
                 }
             ],
             "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "y length",
+                    "ap1ID": 130653,
+                    "ap2ID": 933438
+                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
